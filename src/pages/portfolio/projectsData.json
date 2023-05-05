@@ -1,64 +1,54 @@
 [
   {
-    "title": "Bike Buddy",
+    "title": "Data Provenance in cloud using scalable Blockchain",
     "image": "./projectImages/bike.png",
-    "description": "I was responsible for the routing functionality of Bike Buddy, an application that helps parents and guardians keep their children safe while cycling. Utilises the Leaflet.js library and TomTom Routing/Reverse Geolocation API's to create an interactive and visually appealing map that allows a user to plot a route, taking into account various factors such as traffic levels, bicycle lanes, and elevation.",
-    "technologies": "Leaflet | jQuery | Bootstrap",
-    "github": "https://github.com/mdyeates/bike-buddy",
-    "deployed": "https://norrinradd8.github.io/bike_buddy/",
+    "description": "The end product of this project was complex full stack application which provided security to to cloud storage using a private scalable ethereum blockchain which was scaled and deployed in our network.",
+
+    "technologies": "MERN | IPFS | Geth",
+    "github": "",
+    "deployed": "https://github.com/Supreethsk05/MINI",
     "bgcolor": "#f37737",
     "id": "1"
   },
   {
-    "title": "Weather",
+    "title": "University Based question Forum using OOPS",
     "image": "./projectImages/weather.png",
-    "technologies": "jQuery | HTML | CSS",
-    "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, date, weather icon, temperature, humidity, and wind speed. The dashboard has a 5-day forecast feature and a search history feature that saves past searches for easy access. It also has a dark/light theme that changes the look of the page based on day or night in the searched location and uses the geolocation API to automatically determine the user's current location and display the weather.",
-    "github": "https://github.com/mdyeates/weather-app",
-    "deployed": "https://mdyeates.github.io/weather-app/",
+    "technologies": "OOPS | C++ ",
+    "description": "The end goal of this project is to create safe study environment for the students of a particular university. The project involved the usage of many functionalities and tools which was being provided by the OOPS.",
+    "github": "https://github.com/Supreethsk05/QuestionForum",
+    "deployed": "",
     "bgcolor": "#29cbe0",
     "id": "2"
   },
   {
-    "title": "Team",
+    "title": "Signboard detection using Yolov5 over Transfer learning",
     "image": "./projectImages/team.png",
-    "technologies": "JS | Node | Bootstrap | OOP | TTD",
-    "description": "Team Dashboard is a Node command-line application that takes in information about employees to generate a dynamic HTML web page.",
-    "github": "https://github.com/mdyeates/team-dashboard",
-    "deployed": "https://drive.google.com/file/d/1_atUXTM-L9r4NccsrPaaWqPyNu37ftwH/view",
+    "technologies": "TensorFlow | python | Yolov5 ",
+    "description": "The goal of the project was to optimize the accuracy of signboard detection to achieve that yolov5 over transfer learning was built and was processed on high end GPUs using CUDA drivers the project was later presented as a paper to IEEE conference and was accepted for the same.",
+    "github": "",
+    "deployed": "https://github.com/Supreethsk05/YoloV5",
     "bgcolor": "#6c4bf4",
     "id": "3"
   },
   {
-    "title": "Quiz",
+    "title": "Expense Tracker",
     "image": "./projectImages/quiz.png",
-    "technologies": "JS | HTML | CSS",
-    "description": "A quiz app on the fundamentals of JavaScript. There are 5 randomly selected multiple-choice questions and the user will have a time limit of 50 seconds. The remaining time will determine their score at the end. The user will be penalised by 10 seconds for every incorrect answer.",
-    "github": "https://github.com/mdyeates/coding-quiz",
-    "deployed": "https://mdyeates.github.io/coding-quiz/",
+    "technologies": "MERN | Redux | Selenium",
+    "description": "This expense tracker is built using the MERN stack (MongoDB, Express, React, and Node.js) and allows users to track their expenses. It has been rigorously tested using Selenium, ensuring that it is reliable and accurate. With its user-friendly interface and robust functionality, this expense tracker is an excellent tool for managing personal finances",
+    "github": "https://github.com/Supreethsk05/Expense-Tracker",
+    "deployed": "",
     "bgcolor": "#f85781",
     "id": "4"
   },
 
   {
-    "title": "P1",
+    "title": "Express food delivery analysis",
     "image": "./projectImages/P1.png",
-    "description": "Welcome to P1, your virtual pit stop for the latest updates and standings in the world of F1. But that's not all—we've also got the ultimate card game where driver knowledge is the key to victory.",
-    "technologies": "React | Framer | CSS | Bootstrap | Node",
-    "github": "https://github.com/Jake-W95/P1",
-    "deployed": "https://p1-heroes.netlify.app/",
+    "description": "This exploratory data analysis project analyzed multiple food delivery app datasets using Python libraries such as Pandas, Seaborn, and Matplotlib. The goal was to predict express deliveries in advance, and the project utilized various machine learning techniques to accomplish this task. The insights gained from the analysis can help improve the efficiency and reliability of food delivery services.",
+    "technologies": "Python | Pandas | Seaborn | Pyplot ",
+    "github": "https://github.com/Supreethsk05/expressdelivery",
+    "deployed": "",
     "bgcolor": "#ffcc33",
     "id": "1"
-  },
-
-  {
-    "title": "Planner",
-    "image": "./projectImages/planner.png",
-    "technologies": "JS | Bootstrap | Moment",
-    "description": "Make every hour count with this simple Daily Planner App. You can keep track of all important appointments during a normal 9-5 work day!",
-    "github": "https://github.com/mdyeates/daily-planner",
-    "deployed": "https://mdyeates.github.io/daily-planner/",
-    "bgcolor": "#3e67ff",
-    "id": "6"
   }
 ]
