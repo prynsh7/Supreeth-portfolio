@@ -64,7 +64,7 @@ const Landing = ({ name }) => {
         </div>
       </div>
       <div className="image-container">
-        <motion.img
+        {/* <motion.img
           className="landingImage"
           initial={{ opacity: 0 }}
           animate={{ opacity: 0.4 }}
@@ -72,7 +72,7 @@ const Landing = ({ name }) => {
           style={styles.landingImage}
           src={landingImage}
           alt="Michael Yeates"
-        />
+        /> */}
       </div>
       <SocialIcons />
     </section>
